@@ -28,6 +28,7 @@ Beside a development tools as a freelancer I am also trained to work with tasks 
   <li>Jira / Trello / ClickUP / Togl</li>
   <li>Figma / Sketch / Adobe / Invision / Zeplin</li>
   <li>GitHub / GitLab / Bitbucket</li>
+   <li>Docker</li>
 </ul>
 </p>
 
